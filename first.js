@@ -37,6 +37,19 @@ const lname="kishan";
 console.log(fname+" "+lname);
 console.log(ageJonas>ageSarah);
 
+//Asignment1
+let markWeight=78;
+let markHeight=1.69;
+let johnWeight=92;
+let johnHeight=1.95;
+let bmi1=markWeight/(markHeight**2);
+let bmi2=johnWeight/(johnHeight**2);
+let markHigherBmi=bmi1>bmi2;
+console.log(bmi1,bmi2,markHigherBmi);
+
+
+
+
 
 
 
